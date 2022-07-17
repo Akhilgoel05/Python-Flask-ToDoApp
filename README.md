@@ -9,6 +9,6 @@
 3. When user wants to update the text.
 ![Screenshot (7)a](https://user-images.githubusercontent.com/53372534/179404311-c2b2f185-b0a8-4e62-b960-328c5fa2c56a.png)
 
-4. Fianl items in the table
+4. Final items in the table
 ![Screenshot (9)a](https://user-images.githubusercontent.com/53372534/179404341-02001cd7-47b8-4bd7-b746-117c8b7df7ed.png)
 
